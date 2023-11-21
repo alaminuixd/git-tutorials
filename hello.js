@@ -13,3 +13,5 @@ class greet {
 
 const g1 = new greet('Alice', 34, 'Eid Ul Fitr', 'Eid mubarak');
 console.log(g1.startGreet());
+
+console.log(`--------------------------------------`);
