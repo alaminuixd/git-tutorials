@@ -19,6 +19,9 @@ class greet {
     closeWindow = function(){
         return `I am closing the window`;
     }
+    eatMeal = function(){
+        return `I am eating my meal`;
+    }
 }
 const myObj = {
     one: 'football',
