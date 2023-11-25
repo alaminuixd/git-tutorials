@@ -13,6 +13,9 @@ class greet {
         const gText = `I like playing ${obj.one}, ${obj.two}, and ${obj.three}`;
         return gText;
     }
+    openDoor = function(){
+        return `I am opening a door`;
+    }
 }
 const myObj = {
     one: 'football',
