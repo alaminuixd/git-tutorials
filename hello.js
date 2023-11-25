@@ -16,6 +16,9 @@ class greet {
     openDoor = function(){
         return `I am opening a door`;
     }
+    eatMeal = function(){
+        return `I am eating my meal`;
+    }
 }
 const myObj = {
     one: 'football',
