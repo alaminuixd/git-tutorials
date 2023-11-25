@@ -16,6 +16,9 @@ class greet {
     openDoor = function(){
         return `I am opening a door`;
     }
+    closeWindow = function(){
+        return `I am closing the window`;
+    }
 }
 const myObj = {
     one: 'football',
